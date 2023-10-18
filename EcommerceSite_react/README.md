@@ -5,7 +5,7 @@ functionality.
 ## Tech-Stack
 - React JS 
 - FakerJs 
-- Chakra UI
+- Chakra UI is also tech used
 ## Features
 - Fully responsive
 - Filters
