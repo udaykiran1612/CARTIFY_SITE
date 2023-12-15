@@ -20,7 +20,7 @@ export default function NavBar() {
             <h3 data-testid="login-link"> about</h3>
           </Link>
         </HStack>
-        {/* // Call to action items */}
+        
         <HStack>
           <Button>{CTA}</Button>
           <MobileDrawer/>
