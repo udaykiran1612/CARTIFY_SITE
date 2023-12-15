@@ -86,7 +86,7 @@ const Cartmenu = () => {
         ) : null}
       </MenuList>
     </Menu>
-  );
+    };
 };
 
 export default Cartmenu;
