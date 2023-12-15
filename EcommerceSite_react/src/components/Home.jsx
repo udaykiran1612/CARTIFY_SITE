@@ -14,13 +14,7 @@ import Filters from './Filters';
 import SingleProduct from './SingleProduct';
 
 const Home = () => {
-  //  fastDelivery: false;
-  //  id: '7df47cc6-d445-4611-8bef-84cb5902dd03';
-  //  image: 'https://loremflickr.com/640/480/fashion';
-  //  inStock: 3;
-  //  name: 'Licensed Concrete Tuna';
-  //  price: '434';
-  //  ratings: 3;
+ 
   const {
     state: { products },
     productState: { sort, byStock, byFastDelivery, byRating, searchQuery },
